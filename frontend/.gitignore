@@ -1,0 +1,47 @@
+# 🔐 Fichiers d'environnement sensibles
+.env
+.env.local
+.env.development
+.env.production
+/back-end/.env
+/frontend/.env
+
+# 📦 Dossiers node_modules (gros, inutiles à pusher)
+node_modules/
+back-end/node_modules/
+frontend/node_modules/
+
+# 🖼️ Dossier d'uploads (images/fichiers test en local)
+back-end/uploads/
+
+# ⚙️ Dossiers de build/output
+build/
+dist/
+dist-ssr/
+client/build/
+server/build/
+frontend/dist/
+backend/dist/
+
+# 🧾 Fichiers de log (erreurs, debug)
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 💻 Fichiers système inutiles
+.DS_Store
+Thumbs.db
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log

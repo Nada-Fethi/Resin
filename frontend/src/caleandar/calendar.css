@@ -1,0 +1,18 @@
+/* calendar.css */
+.fc .fc-button {
+  background-color: #e3dee9;
+  border: none;
+  color: white;
+}
+
+.fc .fc-button:hover {
+  background-color: #c71010;
+}
+
+.fc .fc-toolbar-title {
+  color: white;
+}
+
+.fc .fc-daygrid-day-number {
+  color: white;
+}

@@ -1,0 +1,31 @@
+
+[
+    {
+      "id": 1,
+      "title": "Luxury Resin Creations That Inspire",
+      "subtitle": "Exclusive Designs & Artistic Innovations",
+      "date": "12th August 2025",
+      "imageUrl": "https://i.pinimg.com/474x/24/e5/9e/24e59e72d3f2905c8bc5f3f9c1374efe.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Trending Resin Designs You’ll Love",
+      "subtitle": "Modern Aesthetics",
+      "date": "18th January 2025",
+      "imageUrl": "https://i.pinimg.com/474x/24/e5/9e/24e59e72d3f2905c8bc5f3f9c1374efe.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Eco-Friendly Resin: A Sustainable Choice",
+        "subtitle": "How to Craft with Non-Toxic Materials",
+      "date": "5th January 2025",
+      "imageUrl": "https://i.pinimg.com/474x/24/e5/9e/24e59e72d3f2905c8bc5f3f9c1374efe.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Handmade Resin Jewelry: A Timeless Trend",
+        "subtitle": "Crafting Unique & Elegant Accessories",
+        "date": "25th May 2025",
+        "imageUrl": "https://i.pinimg.com/474x/24/e5/9e/24e59e72d3f2905c8bc5f3f9c1374efe.jpg"
+      }
+  ]

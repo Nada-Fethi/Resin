@@ -1,0 +1,207 @@
+[
+  {
+    "_id": 1,
+    "name": "accessorie",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 15,
+    "oldPrice": 15,
+    "image": "https://i.pinimg.com/236x/28/ec/39/28ec39bf70bece8dde699872e83810b4.jpg",
+    "color": "pink",
+    "rating": 4.5,
+    "author":"admin"
+  },  {
+    "_id": 2,
+    "name": "electronics",
+    "category": "electronics",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 950,
+    "oldPrice": 1090,
+    "image": "https://i.pinimg.com/736x/63/62/3f/63623fcbffc282e101b3adf3ad80d488.jpg",
+    "color": "white",
+    "rating": 4.5,
+    "author":"admin"
+  },  {
+    "_id": 3,
+    "name": "accessorie",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 25,
+    "oldPrice": 45,
+    "image": "https://i.pinimg.com/736x/0b/b2/04/0bb204d0fb25e6f96203a2f7a5c8de69.jpg",
+    "color": "pink",
+    "rating": 4.5,
+    "author":"admin"
+  },  {
+    "_id": 4,
+    "name": "Resin Keychain",
+    "category": "resin",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 65,
+    "oldPrice": 80,
+    "image": "https://i.pinimg.com/736x/de/96/d8/de96d8dd30e6ba780ff11d6dd9b07be4.jpg",
+    "color": "pink",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "_id": 5,
+    "name": "accessories",
+    "category": "accessories",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 715,
+    "oldPrice": 915,
+    "image": "https://i.pinimg.com/736x/d0/a7/31/d0a731da5abbebc143dbfbda23df97fb.jpg",
+    "color": "pink",
+    "rating": 4.5,
+    "author":"admin"
+  },  {
+    "_id": 6,
+    "name": "Electronics",
+    "category": "electronics",
+    "description": "Stylish leather handbag with ample storage space.",
+    "price": 300,
+    "oldPrice": 500,
+    "image": "https://i.pinimg.com/736x/72/31/0e/72310eac70eabad7ac43ac16d03b1e83.jpg",
+    "color": "white",
+    "rating": 4.5,
+    "author":"admin"
+  },
+    {
+      "_id": 7,
+      "name": "Accessories",
+      "category": "accessories",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 99,
+      "oldPrice": 140,
+      "image": "https://i.pinimg.com/736x/46/2c/00/462c001f926539d6d3e2296c091cbe8d.jpg",
+      "color": "white",
+      "rating": 4.0
+    },{
+      "_id": 8,
+      "name": "Lys rose",
+      "category": "flower",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 99,
+      "oldPrice": 140,
+      "image": "https://i.pinimg.com/474x/72/d9/ac/72d9acabcfa4fb9923c25eb50631a16c.jpg",
+      "color": "pink",
+      "rating": 4.7
+    },
+    {
+      "_id": 9,
+      "name": "tulipes",
+      "category": "flower",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 150,
+      "image": "https://i.pinimg.com/474x/0e/bc/6b/0ebc6b52eeb701b2973cf98cb231b8f4.jpg",
+      "color": "pink",
+      "rating": 4.7
+    },
+    {
+      "_id": 10,
+      "name": "Resin Bookmarks",
+      "category": "resin",
+      "description": "Luxurious silk scarf with vibrant colors.",
+      "price": 15,
+      "oldPrice": 15,
+      "image": "http://localhost:5173/src/assets/res1.jpg",
+      "color": "blue",
+      "rating": 4.3
+    },
+    {
+      "_id": 11,
+      "name": "electronics",
+      "category": "electronics",
+      "description": "Chic cocktail dress for parties and events.",
+      "price": 15,
+      "image": "https://i.pinimg.com/474x/18/88/f5/1888f51e506d8d459d986f2dcc893b82.jpg",
+      "color": "black",
+      "rating": 4.4
+    },
+    {
+      "_id": 12,
+      "name": "electronics",
+      "category": "electronics",
+      "description": "Sparkling diamond earrings that add elegance to any outfit.",
+      "price":  350,
+      "oldPrice": 700,
+      "image": "https://i.pinimg.com/236x/22/79/79/2279792ce5f3c2f85e99e749e53b9bca.jpg",
+      "color": "pink",
+      "rating": 3
+    },
+    {
+      "_id": 13,
+      "name": "electronics",
+      "category": "electronics",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 1000,
+      "image":"https://i.pinimg.com/236x/59/86/95/598695a0b9ca21250cc812af1b342d71.jpg",
+       "color": "pink",
+      "rating": 5
+    },
+    {
+      "_id": 14,
+      "name": "electronics",
+      "category": "electronics",
+      "description": "Trendy sunglasses with UV protection.",
+      "price": 999,
+      "image":"https://i.pinimg.com/236x/63/50/78/6350784e89773320684997b4527b3985.jpg",
+      "color": "green",
+      "rating": 4.6
+    },
+   
+    {
+      "_id": 15,
+      "name": "Resin Keychain",
+      "category": "resin",
+      "description": "Comfortable maxi dress for casual outings.",
+      "price": 10,
+      "oldPrice": 30,
+      "image":"https://i.pinimg.com/736x/c8/1c/66/c81c669c2e713d35194b5fab02a1507f.jpg",
+      "color": "blue",
+      "rating": 5
+    },
+    {
+      "_id": 16,
+      "name": "Headset Bluetooth wireless headset",
+      "category": "electronics",
+      "description": "Long-lasting matte lipstick in various shades.",
+      "price": 300,
+      "image": "https://i.pinimg.com/736x/1d/08/b5/1d08b5aa12b3b8cfd004fb524fa5dd83.jpg",
+      "color": "white",
+      "rating": 4.2
+    }
+    ,{
+      "_id": 17,
+      "name": "mariee",
+      "category": "flower",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 99,
+      "oldPrice": 140,
+      "image": "https://i.pinimg.com/236x/97/bd/7a/97bd7aa972dee59df0bf6a9fe75fd13b.jpg",
+      "color": "gold",
+      "rating": 4.7
+    },
+    {
+      "_id": 18,
+      "name": "Lys rose",
+      "category": "flower",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 150,
+      "image": "https://i.pinimg.com/474x/30/3a/4e/303a4e9bd9d2dc6c7b7f40ebc2f88d14.jpg",
+      "color": "Pink",
+      "rating": 4.7
+    },
+    {
+      "_id": 19,
+      "name": "Lys rose",
+      "category": "flower",
+      "description": "Exquisite gold necklace with intricate design.",
+      "price": 99,
+      "oldPrice": 140,
+      "image": "https://i.pinimg.com/474x/72/d9/ac/72d9acabcfa4fb9923c25eb50631a16c.jpg",
+      "color": "Pink",
+      "rating": 4.7
+    }
+    ]   
