@@ -9,7 +9,10 @@ The goal of this project is to build a modern, secure, and responsive e-commerce
 <img width="341" height="633" alt="Capture d’écran 2025-06-15 134817" src="https://github.com/user-attachments/assets/19dd7884-0755-4def-96e2-dcd727b4f77d" />
 
 <img width="393" height="633" alt="Capture d’écran 2025-07-16 165242" src="https://github.com/user-attachments/assets/5ee28117-06e9-473a-a694-d967356fd45f" />
-##Core Features
+
+
+
+## Core Features
 👤 User Features
 Secure registration & login (JWT)
 
@@ -53,7 +56,7 @@ About, Contact, Legal Mentions, Terms & Conditions
 
 Blog: creative tips, behind the scenes, resin tutorials
 
-##Security
+## Security
 Authentication with JWT tokens
 
 Protected admin routes
@@ -64,7 +67,7 @@ Input validation & error handling
 
 
 
-##Architecture Overview
+## Architecture Overview
 Full-stack MERN architecture (MongoDB, Express, React, Node)
 
 Backend follows MVC pattern
@@ -76,7 +79,7 @@ Image storage and delivery via Cloudinary
 Responsive and optimized UI
 
 
-##UX & Design
+## UX & Design
 Fully responsive (mobile, tablet, desktop)
 
 Feminine, soft, and creative visual identity
@@ -85,7 +88,7 @@ Smooth transitions, hover animations (Tailwind)
 
 Clear CTA and user-friendly navigation
 
-📈 Expected Results & Impact
+## Expected Results & Impact
 Enable online sales of handmade resin products
 
 Improve visibility for female crafters
@@ -94,7 +97,7 @@ Automate inventory, order, and user management
 
 Deliver a complete e-commerce experience
 
-🎓 Skills Gained
+## Skills Gained
 Mastered full MERN stack development
 
 Built secure RESTful APIs
